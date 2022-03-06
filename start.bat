@@ -1,0 +1,1 @@
+TerrainFinderApp.exe --collect_data=true

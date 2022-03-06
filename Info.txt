@@ -1,0 +1,9 @@
+TerrainFinder is an application created to reverse engineer coordinates in Minecraft based on naturally generated terrain in a Minecraft world.
+It can be used to find coordinates of someone's area/base if you look at naturally generated terrain in a screenshot or video.
+
+You can launch this app by double clicking the exe in file explorer or running start.bat. In start.bat, you can change the 'collect_data' program option to false if you do not want
+program usage data to be sent to the creator.
+
+Try not to be too mischevious (:
+
+This was created by (Minecraft user) coolmann24, youtube channel https://youtube.com/coolmann24. My youtube channel will have a video describing details of how to use this software.
